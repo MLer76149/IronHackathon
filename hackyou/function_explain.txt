@@ -1,0 +1,70 @@
+
+#### hackpy ####
+
+*from hackyou import hackpy as hp*
+
+
+plot_continous: plot for continous columns
+
+plot_discrete: plot for discrete columns
+
+boxplot_continous: box-plot
+
+corr_mat: correlation-matrix
+
+plot_transformer: plot for comparison of log and power-transform
+
+log_it: performs log
+
+power_transform: performs power-transform
+
+display_filledna: plots a distribution with NaN filled with median and mean
+
+remove_outliers: removes outliers
+
+unique: displays unique values
+
+linear_regression: performs linear regression (Linear Regression and KNN)
+
+logistic_regression. performs logistic regression
+
+smote: performs SMOTE
+
+standard: performs StdardScaler
+
+min_max: performs MinMaxScaler
+
+one_hot: performs OneHotEncoder
+
+show_nan: displays NaN
+
+show_empty_variables: displays empty strings
+
+remove_cols_with_na: removes columns with a certain NaN
+
+
+### hackfilter ###
+
+*from hackyou import hackfilter as hf*
+
+reduce_features_variance
+
+reduce_features_k_best
+
+reduce_features_recursive
+
+
+### hackforest ###
+
+*from hackyou import hackforest as ht*
+
+decision_tree
+
+decision_tree_cross
+
+grid_search
+
+random_forest_class
+
+
+
